@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/144653124?v=4" alt="Hariharan N" style="border-radius:50%;width:150px;height:150px;object-fit:cover;border:3px solid #4f46e5;box-shadow:0 4px 8px rgba(0,0,0,0.2);"/>
+ <img src="https://avatars.githubusercontent.com/u/144653124?v=4" 
+     alt="Hariharan N" 
+     style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 3px solid #4f46e5; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+
   <h1>Hariharan N</h1>
   <h3>Full Stack Software Engineer | Specializing in Scalable Web Solutions</h3>
   <p>

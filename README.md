@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/natarajhari">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://haristrange.github.io">
+    <a href="https://hariportfoliio.netlify.app">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
   </p>

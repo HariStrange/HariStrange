@@ -108,10 +108,6 @@ Government Arts College, Salem, Tamil Nadu
     <img src="https://img.shields.io/badge/LinkedIn-natarajhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://hariportfoliio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-haristrange.github.io-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-haristrange.portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
-
----
-
-*"Great software is built with clarity, precision, and a relentless pursuit of excellence."*
